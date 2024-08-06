@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trupti
 - 👀 I’m interested in coding and new digital based problems
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on joining clubs
 
 
